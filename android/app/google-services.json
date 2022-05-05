@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057968658162",
+    "project_id": "attendance-system-tub01",
+    "storage_bucket": "attendance-system-tub01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057968658162:android:e992320f014957676b226b",
+        "android_client_info": {
+          "package_name": "com.example.attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057968658162-v4f56sgnk2hbdo87dj3tl53c76gi9i4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2SDq5tKkqEQlGEPT5-2R_ASgiLZ65fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057968658162-v4f56sgnk2hbdo87dj3tl53c76gi9i4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
